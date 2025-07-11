@@ -1,1 +1,1 @@
-# hospital-frontend
+This is the frontend of Centralized Hospital Management System.
